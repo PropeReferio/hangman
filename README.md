@@ -8,4 +8,4 @@
 4. Have fun playing!
 
 
-![Screenshot of Application at Work](/blackjack_screenshot.png "A look at the application at work")
+![Screenshot of Application at Work](/blackjack-screenshot.png "A look at the application at work")
